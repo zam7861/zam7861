@@ -26,7 +26,7 @@ Hey folks,
 
 
 
-<img align="left" alt="SQL" width="30em" src="https://image.flaticon.com/icons/svg/2772/2772128.svg" style="margin-right: 1em; margin-top: 0.5rm" />
+<img align="left" alt="SQL" width="30em" src="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.png" style="margin-right: 1em; margin-top: 0.5rm" />
 <img align="left" alt="MongoDB" width="30em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffindlogovector.com%2Fmongodb-logo-vector-svg%2F&psig=AOvVaw3IHTBv8EKztqY1t06Cwa2S&ust=1669057445100000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC14NK5vfsCFQAAAAAdAAAAABAE" style="margin-right: 1em; margin-top: 0.5rm" />
 <img align="left" alt="GitHub" width="30em" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-right: 1em"/>
 <img align="left" alt="Git" width="30em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 1em" />
