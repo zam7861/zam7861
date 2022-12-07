@@ -22,18 +22,18 @@
 
 ### My technology tier list -
 
-<img align="left" alt="C++" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-right: 1em" />
-<img align="left" alt="SpringBoot" width="50em" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" style="margin-right: 1em" />
-<img align="left" alt="HTML5" width="50em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 1em" />
-<img align="left" alt="CSS3" width="50em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 1em" />
-<img align="left" alt="JavaScript" width="50em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 1em"/>
-<img align="left" alt="React" width="50em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin-right: 1em"/>
-<img align="left" alt="Angular" width="50em" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" style="margin-right: 1em"/>
-<img align="left" alt="SQL" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 1em; margin-top: 0.5rm" />
-<img align="left" alt="MongoDB" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="margin-right: 1em; margin-top: 0.5rm" />
-<img align="left" alt="GitHub" width="50em" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-right: 1em"/>
-<img align="left" alt="Git" width="50em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 1em" />
+<img align="left" alt="C++" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-right: 1em" />
+<img align="left" alt="SpringBoot" width="40em" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" style="margin-right: 1em" />
+<img align="left" alt="HTML5" width="40em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 1em" />
+<img align="left" alt="CSS3" width="40em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 1em" />
+<img align="left" alt="JavaScript" width="40em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 1em"/>
+<img align="left" alt="React" width="40em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin-right: 1em"/>
+<img align="left" alt="Angular" width="40em" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" style="margin-right: 1em"/>
+<img align="left" alt="SQL" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 1em; margin-top: 0.5rm" />
+<img align="left" alt="MongoDB" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="margin-right: 1em; margin-top: 0.5rm" />
+<img align="left" alt="GitHub" width="40em" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="margin-right: 1em"/>
+<img align="left" alt="Git" width="40em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 1em" />
 
 
 <br>
