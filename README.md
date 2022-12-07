@@ -3,10 +3,10 @@ Hey folks,
 <br>
 
 ## I am a Software Engineer(Developer)👨‍💻
-
+- 👋 Hi, I’m Zaman Mumbrawala
 - 🔭 I’m currently working on ***Java Full Stack Development and Web Development***
 - 🌱 I’m currently learning ***Cloud Computing and Machine Learning***
-
+- 💻 I'm proficient in Java, HTML, CSS, JavaScript, React, Angular, Spring Boot, MySQL and MongoDB.
 <br>
 
 ### You can find me 😉 -
