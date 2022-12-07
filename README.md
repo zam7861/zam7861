@@ -24,7 +24,7 @@
 
 <img align="left" alt="C++" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-right: 1em" />
-<img align="left" alt="SpringBoot" width="40em" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" style="margin-right: 1em" />
+<img align="left" alt="SpringBoot" width="100em" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" style="margin-right: 1em" />
 <img align="left" alt="HTML5" width="40em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 1em" />
 <img align="left" alt="CSS3" width="40em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 1em" />
 <img align="left" alt="JavaScript" width="40em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 1em"/>
