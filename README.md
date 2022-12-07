@@ -5,7 +5,7 @@ Hey folks,
 ## I am a Software Engineer(Developer)👨‍💻
 
 - 🔭 I’m currently working on ***Java Full Stack Development and Web Development***
-- 🌱 I’m currently learning ***Cloud Computing and Data Science***
+- 🌱 I’m currently learning ***Cloud Computing and Machine Learning***
 
 <br>
 
